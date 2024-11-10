@@ -1,1 +1,2 @@
 # Sarcasm-Detection-on-Twitter-tweets-using-ML-technique
+In this project, it detects the sarcastic and non sarcastic statements made by people on social media. This project aims to understand the emotions and humor made behind the statement and detects whether the statement passed was sarcastic comment or not. The project consists of huge dataset both saracstic and non sarcastic statements uses NLP to process such languages. Also we checked and compared with some ML algorithmns which has got higher accuracy in such case. 
